@@ -44,5 +44,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://devthreads3.netlify.app/"
+  "proxy": "http://localhost:4000"
 }
